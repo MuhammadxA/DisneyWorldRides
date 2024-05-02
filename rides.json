@@ -1,21 +1,9 @@
 {
-  "Magic Kingdom" : 
-  [
       {"RideName" : "Space Mountain", "ExtremeLevel" : "Extreme", "Park" : "Magic Kingdom",  "Land" : "Tomorrowland", "Website" : "https://disneyworld.disney.go.com/attractions/magic-kingdom/space-mountain/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/spacemountain.jpg"},
-      {"RideName" : "Jungle Cruise", "ExtremeLevel" : "Slow Ride", "Park" : "Magic Kingdom",  "Land" : "Tomorrowland", "Website" : "https://disneyworld.disney.go.com/attractions/magic-kingdom/space-mountain/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/junglecruise.jpg"}
-    ],
-  "EPCOT" :
-  [
+      {"RideName" : "Jungle Cruise", "ExtremeLevel" : "Slow Ride", "Park" : "Magic Kingdom",  "Land" : "Tomorrowland", "Website" : "https://disneyworld.disney.go.com/attractions/magic-kingdom/space-mountain/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/junglecruise.jpg"},
     {"RideName" : "Spaceship Earth", "ExtremeLevel" : "Slow Ride", "Park" : "EPCOT",  "Land" : "World Celebration", "Website" : "https://disneyworld.disney.go.com/attractions/epcot/spaceship-earth/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/spaceshipearth.jpg"},
-    {"RideName" : "The Seas with Nemo & Friends", "ExtremeLevel" : "Slow Ride", "Park" : "EPCOT",  "Land" : "World Nature", "Website" : "https://disneyworld.disney.go.com/attractions/epcot/seas-with-nemo-and-friends/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/nemo.jpg"}
-  ],
-  "Hollywood Studios" :
-  [
+    {"RideName" : "The Seas with Nemo & Friends", "ExtremeLevel" : "Slow Ride", "Park" : "EPCOT",  "Land" : "World Nature", "Website" : "https://disneyworld.disney.go.com/attractions/epcot/seas-with-nemo-and-friends/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/nemo.jpg"},
     {"RideName" : "Muppet Vision 3D", "ExtremeLevel" : "Theater", "Park" : "Hollywood Studios",  "Land" : "Grand Avenue", "Website" : "https://disneyworld.disney.go.com/attractions/hollywood-studios/muppet-vision-3d/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/muppets.jpg"},
-    {"RideName" : "Star Wars: Rise of the Reistance", "ExtremeLevel" : "Thrill Ride", "Park" : "Hollywood Studios",  "Land" : "Galaxy's Edge", "Website" : "https://disneyworld.disney.go.com/attractions/hollywood-studios/star-wars-rise-of-the-resistance/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/ror.jpg"}
-  ],
-  "Animal Kingdom" :
-  [
+    {"RideName" : "Star Wars: Rise of the Reistance", "ExtremeLevel" : "Thrill Ride", "Park" : "Hollywood Studios",  "Land" : "Galaxy's Edge", "Website" : "https://disneyworld.disney.go.com/attractions/hollywood-studios/star-wars-rise-of-the-resistance/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/ror.jpg"},
     {"RideName" : "Dinosaur", "ExtremeLevel" : "Thrill Ride", "Park" : "Animal Kingdom",  "Land" : "Dinoland U.S.A", "Website" : "https://disneyworld.disney.go.com/attractions/animal-kingdom/dinosaur/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/dinosaur.jpg"}
-  ]
 }

@@ -1,1 +1,6 @@
-
+{
+  "Magic Kingdom" : 
+    [
+      {"RideName" : "Space Mountain", "ExtremeLevel" : "Extreme", "Description" : "From the Disney World website:\n\nZoom Through the Galaxy\n\nDip and careen into the inky blackness as a futuristic soundtrack echoes all around you. Fly past shooting stars and celestial satellites. Roar past streaking orbs of light, wayward comets and migrant meteors. Feel the pull of gravity as you’re drawn into a swirling wormhole!", "Park" : "Magic Kingdom",  "Land" : "Tomorrowland", "Website" : "https://disneyworld.disney.go.com/attractions/magic-kingdom/space-mountain/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/spacemountain.jpg"}
+    ]
+}

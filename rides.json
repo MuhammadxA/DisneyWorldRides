@@ -6,7 +6,12 @@
     ],
   "EPCOT" :
   [
-          {"RideName" : "Spaceship Earth", "ExtremeLevel" : "Slow Ride", "Park" : "EPCOT",  "Land" : "World Celebration", "Website" : "https://disneyworld.disney.go.com/attractions/epcot/spaceship-earth/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/spaceshipearth.jpg"},
-            {"RideName" : "The Seas with Nemo & Friends", "ExtremeLevel" : "Slow Ride", "Park" : "EPCOT",  "Land" : "World Nature", "Website" : "https://disneyworld.disney.go.com/attractions/epcot/seas-with-nemo-and-friends/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/nemo.jpg"}
+    {"RideName" : "Spaceship Earth", "ExtremeLevel" : "Slow Ride", "Park" : "EPCOT",  "Land" : "World Celebration", "Website" : "https://disneyworld.disney.go.com/attractions/epcot/spaceship-earth/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/spaceshipearth.jpg"},
+    {"RideName" : "The Seas with Nemo & Friends", "ExtremeLevel" : "Slow Ride", "Park" : "EPCOT",  "Land" : "World Nature", "Website" : "https://disneyworld.disney.go.com/attractions/epcot/seas-with-nemo-and-friends/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/nemo.jpg"}
+  ],
+  "Hollywood Studios" :
+  [
+    {"RideName" : "Muppet Vision 3D", "ExtremeLevel" : "Theater", "Park" : "Hollywood Studios",  "Land" : "Grand Avenue", "Website" : "https://disneyworld.disney.go.com/attractions/hollywood-studios/muppet-vision-3d/", "Image" : "muppets.jpg"},
+    {"RideName" : "Star Wars: Rise of the Reistance", "ExtremeLevel" : "Thrill Ride", "Park" : "Hollywood Studios",  "Land" : "Galaxy's Edge", "Website" : "https://disneyworld.disney.go.com/attractions/hollywood-studios/star-wars-rise-of-the-resistance/", "Image" : "ror.jpg"}
   ]
 }

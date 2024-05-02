@@ -11,11 +11,11 @@
   ],
   "Hollywood Studios" :
   [
-    {"RideName" : "Muppet Vision 3D", "ExtremeLevel" : "Theater", "Park" : "Hollywood Studios",  "Land" : "Grand Avenue", "Website" : "https://disneyworld.disney.go.com/attractions/hollywood-studios/muppet-vision-3d/", "Image" : "muppets.jpg"},
-    {"RideName" : "Star Wars: Rise of the Reistance", "ExtremeLevel" : "Thrill Ride", "Park" : "Hollywood Studios",  "Land" : "Galaxy's Edge", "Website" : "https://disneyworld.disney.go.com/attractions/hollywood-studios/star-wars-rise-of-the-resistance/", "Image" : "ror.jpg"}
+    {"RideName" : "Muppet Vision 3D", "ExtremeLevel" : "Theater", "Park" : "Hollywood Studios",  "Land" : "Grand Avenue", "Website" : "https://disneyworld.disney.go.com/attractions/hollywood-studios/muppet-vision-3d/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/muppets.jpg"},
+    {"RideName" : "Star Wars: Rise of the Reistance", "ExtremeLevel" : "Thrill Ride", "Park" : "Hollywood Studios",  "Land" : "Galaxy's Edge", "Website" : "https://disneyworld.disney.go.com/attractions/hollywood-studios/star-wars-rise-of-the-resistance/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/ror.jpg"}
   ],
   "Animal Kingdom" :
   [
-    {"RideName" : "Dinosaur", "ExtremeLevel" : "Thrill Ride", "Park" : "Animal Kingdom",  "Land" : "Dinoland U.S.A", "Website" : "https://disneyworld.disney.go.com/attractions/animal-kingdom/dinosaur/", "Image" : "dinosaur.jpg"}
+    {"RideName" : "Dinosaur", "ExtremeLevel" : "Thrill Ride", "Park" : "Animal Kingdom",  "Land" : "Dinoland U.S.A", "Website" : "https://disneyworld.disney.go.com/attractions/animal-kingdom/dinosaur/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/dinosaur.jpg"}
   ]
 }

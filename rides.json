@@ -3,11 +3,10 @@
   [
       {"RideName" : "Space Mountain", "ExtremeLevel" : "Extreme", "Park" : "Magic Kingdom",  "Land" : "Tomorrowland", "Website" : "https://disneyworld.disney.go.com/attractions/magic-kingdom/space-mountain/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/spacemountain.jpg"},
       {"RideName" : "Jungle Cruise", "ExtremeLevel" : "Slow Ride", "Park" : "Magic Kingdom",  "Land" : "Tomorrowland", "Website" : "https://disneyworld.disney.go.com/attractions/magic-kingdom/space-mountain/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/junglecruise.jpg"}
-    ]
+    ],
   "EPCOT" :
   [
           {"RideName" : "Spaceship Earth", "ExtremeLevel" : "Slow Ride", "Park" : "EPCOT",  "Land" : "World Celebration", "Website" : "https://disneyworld.disney.go.com/attractions/epcot/spaceship-earth/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/spaceshipearth.jpg"},
-  ],
-            {"RideName" : "The Seas with Nemo & Friends", "ExtremeLevel" : "Slow Ride", "Park" : "EPCOT",  "Land" : "World Nature", "Website" : "https://disneyworld.disney.go.com/attractions/epcot/seas-with-nemo-and-friends/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/nemo.jpg"},
-  ],
+            {"RideName" : "The Seas with Nemo & Friends", "ExtremeLevel" : "Slow Ride", "Park" : "EPCOT",  "Land" : "World Nature", "Website" : "https://disneyworld.disney.go.com/attractions/epcot/seas-with-nemo-and-friends/", "Image" : "https://raw.githubusercontent.com/MuhammadxA/DisneyWorldRides/main/nemo.jpg"}
+  ]
 }
